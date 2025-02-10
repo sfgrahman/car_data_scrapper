@@ -1,0 +1,6 @@
+pandas
+selenium
+beautifulsoup4
+tqdm
+openpyxl
+chromedriver-py==123.0.6312.122
